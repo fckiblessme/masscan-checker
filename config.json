@@ -2,6 +2,6 @@
   "target": "45.33.32.156",
   "ports": "22,80,443",
   "rate": "1000",
-  "tg_token": "8777341120:AAGuRNk3Ty-eN1V1r5niO0i8nICuOwQQr3s",
-  "tg_chat_id": "1033387759"
+  "tg_token": "ВАШ_ТОКЕН",
+  "tg_chat_id": "ВАШ_ЧАТ_ID"
 }
